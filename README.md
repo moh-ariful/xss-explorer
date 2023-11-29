@@ -11,4 +11,4 @@ Apabila di Linux -> pip3 install -r requirements.txt <br>
 Setelah selesai menginstall library dari requirements.txt, <br>
 
 disusul dengan perintah di terminal -> python xss-explorer.py<br>
-atau -> python3 xss-explorer.py di Linux.<br>
+atau di Linux -> python3 xss-explorer.py    <br>
