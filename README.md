@@ -9,6 +9,6 @@ jalankan -> cd xss-explorer <br>
 Lalu jalankan perintah -> pip install -r requirements.txt <br>
 Apabila di Linux -> pip3 install -r requirements.txt <br>
 Setelah selesai menginstall library dari requirements.txt, <br>
-
-disusul dengan perintah di terminal -> python xss-explorer.py<br>
+mulai jalankan skrip dengan: <br>
+perintah di terminal -> python xss-explorer.py<br>
 atau di Linux -> python3 xss-explorer.py    <br>
